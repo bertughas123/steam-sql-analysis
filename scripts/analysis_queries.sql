@@ -1,0 +1,2 @@
+--HATA DUZELTME GAMES TABLOSU İÇİN
+--1. Fiyat 0 olan oyunların fiyatını düzelt (örnek fiyat ataması):
